@@ -15,4 +15,4 @@ focado no framework React ultilizando react router dom e algumas bibliotecas CSS
 # 📊 Status Github
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=sDouglasgonc&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sDouglasgonc&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sDouglasgonc&layout=compact)
